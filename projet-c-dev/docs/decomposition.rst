@@ -1,0 +1,4 @@
+Decomposition
+=============
+
+.. doxygenfile:: decomposition.h
